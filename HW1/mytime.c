@@ -12,7 +12,7 @@ int main( int argc, char *argv[] ){
     char str1[10], str2[10],str3[100],word[10];
 
     int total_argc= argc;
-    printf("!!!!! total_argc = %d \n", total_argc);
+    // printf("!!!!! total_argc = %d \n", total_argc);
 
     for (int i = 1; i < total_argc; i++)
     {
